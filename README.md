@@ -1,9 +1,9 @@
 # Clojure练习记录
 
-> 以下介绍内容摘自《Clojure in Action》
-> Clojure是一种简单、精炼的编程语言，其设计的目的是轻松地同时利用遗留代码和现代化多核处理器。
-> Clojure的简单性在于稀少而有规律的语法，精炼则源于动态类型和函数式编程。
-> Clojure可以很好的利用Java程序库，因为它以JVM为宿主。
+> 以下介绍内容摘自《Clojure in Action》<br/>
+> Clojure是一种简单、精炼的编程语言，其设计的目的是轻松地同时利用遗留代码和现代化多核处理器。<br/>
+> Clojure的简单性在于稀少而有规律的语法，精炼则源于动态类型和函数式编程。<br/>
+> Clojure可以很好的利用Java程序库，因为它以JVM为宿主。<br/>
 > Clojure以不可变数据结构和提供强大的并发结构简化了多线程编程。
 
 ![](images/clojure.jpg)

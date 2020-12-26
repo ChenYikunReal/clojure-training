@@ -1,3 +1,5 @@
+(ns DataType)
+
 (defn Example []
   ;; The below code declares a integer variable
   (def x 1)
